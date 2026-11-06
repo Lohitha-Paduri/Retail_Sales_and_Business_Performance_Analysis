@@ -1,0 +1,7 @@
+# Use Python 3.10 or 3.11 (Python 3.7 is not supported by current dependencies)
+streamlit>=1.35,<2.0
+pandas>=2.0,<3.0
+plotly>=5.20,<7.0
+mysql-connector-python>=8.3,<10.0
+python-dotenv>=1.0,<2.0
+pytest>=8.0,<9.0
